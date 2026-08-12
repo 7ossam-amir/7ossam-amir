@@ -25,6 +25,7 @@ I am an **AI & Machine Learning Engineer** focused on turning experiments into t
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=111827" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/LiveKit-111827?style=flat-square&logo=livekit&logoColor=white" alt="LiveKit" />
   <img src="https://img.shields.io/badge/FAISS-2563EB?style=flat-square" alt="FAISS" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
@@ -34,19 +35,17 @@ I am an **AI & Machine Learning Engineer** focused on turning experiments into t
 
 ## Selected work
 
-| Project | What it demonstrates |
+| Project | Why it matters |
 | --- | --- |
-| [**AI Engineer Assessment**](https://github.com/7ossam-amir/electro-pi-ai-engineer-assessment) | LiveKit voice agent, FAISS/Ollama RAG, local model quantization, Dockerized inference, repeatable load tests, and unit testing. |
-| [**Advanced Video Tracker**](https://github.com/7ossam-amir/Advanced_Video_Tracker_with_Threat_Analysis) | Flask application combining YOLO/OpenCV tracking, image descriptions, translation, and BERT-based threat analysis. |
-| [**Medical Imaging: AE vs VAE**](https://github.com/7ossam-amir/AE_vs_VAE) | Modular TensorFlow comparison on Medical MNIST with reproducible metadata, visual evaluation, linting, and tests. |
-| [**Conditional VAE Date Generator**](https://github.com/7ossam-amir/C_VAE) | PyTorch conditional generation with calendar-consistency objectives, strict validation, tests, Kaggle training, and a local UI. |
-| [**MLOps GAN Pipeline**](https://github.com/7ossam-amir/MLOPS) | Configurable GAN training on Kaggle GPU with MLflow metrics, artifacts, and experiment tracking. |
-| [**MLOps Quality Gate**](https://github.com/7ossam-amir/MLOPS_A5) | A lightweight scikit-learn pipeline with GitHub Actions, a measurable quality threshold, and a gated deploy job. |
+| **Multi-tenant AI Communication Platform** · Private case study | Production-oriented SaaS with isolated workspaces, a unified inbox, role-based access, AI-assisted replies, encrypted provider credentials, signed webhooks, durable storage, and multi-channel delivery. |
+| [**AI Systems Engineering & Deployment**](https://github.com/7ossam-amir/electro-pi-ai-engineer-assessment) | A LiveKit voice agent, grounded FAISS/Ollama RAG, local model quantization, Dockerized inference, repeatable load testing, and a meaningful unit-test suite. |
+| **Medical Form Intelligence Pipeline** · Private case study | Converts handwritten medical intake forms into structured records with template-aware regions, schema validation, confidence scoring, QA reports, and human-review flags. |
+| [**Conditional Generative Modeling**](https://github.com/7ossam-amir/C_VAE) | A PyTorch conditional VAE with domain-consistency objectives, strict output validation, automated tests, Kaggle training, and a local generation interface. |
 
 ## GitHub activity
 
 <p align="center">
-  <img src="./assets/profile-stats.svg" alt="Profile snapshot: 17 public repositories, 102 contributions in the last year, and 6 featured projects" width="100%" />
+  <img src="./assets/profile-stats.svg" alt="Profile snapshot: 17 public repositories, 102 contributions in the last year, and 4 selected projects" width="100%" />
 </p>
 
 <p align="center"><sub>Profile snapshot · August 2026</sub></p>
