@@ -46,9 +46,10 @@ I am an **AI & Machine Learning Engineer** focused on turning experiments into t
 ## GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=7ossam-amir&show_icons=true&hide_border=true&bg_color=00000000&title_color=0f766e&text_color=64748b&icon_color=14b8a6&include_all_commits=true&custom_title=GitHub%20Activity" alt="Hossam's GitHub statistics" />
-  <img height="165" src="https://streak-stats.demolab.com?user=7ossam-amir&hide_border=true&background=00000000&ring=14B8A6&fire=F59E0B&currStreakLabel=0F766E&sideLabels=64748B&dates=64748B&currStreakNum=0F766E&sideNums=0F766E" alt="Hossam's GitHub contribution streak" />
+  <img src="./assets/profile-stats.svg" alt="Profile snapshot: 17 public repositories, 102 contributions in the last year, and 6 featured projects" width="100%" />
 </p>
+
+<p align="center"><sub>Profile snapshot · August 2026</sub></p>
 
 ## Let’s build something useful
 
