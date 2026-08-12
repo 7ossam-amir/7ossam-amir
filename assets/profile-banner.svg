@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Hossam Amir — AI and Machine Learning Engineer</title>
+  <desc id="desc">A dark navy banner with teal geometric accents and a concise professional headline.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.56" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#102a33"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#0ea5e9"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="16"/>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#5eead4" stroke-opacity=".08"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+  <circle cx="1050" cy="72" r="112" fill="#14b8a6" opacity=".15" filter="url(#glow)"/>
+  <circle cx="1120" cy="250" r="130" fill="#0284c7" opacity=".12" filter="url(#glow)"/>
+
+  <g transform="translate(70 62)">
+    <rect width="72" height="72" rx="18" fill="url(#accent)" opacity=".95"/>
+    <path d="M24 25 13 36l11 11M48 25l11 11-11 11M40 18 31 54" fill="none" stroke="#07111f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <text x="70" y="185" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="750" letter-spacing="-.8">Hossam Amir</text>
+  <text x="72" y="226" fill="#5eead4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="600" letter-spacing="1.8">AI &amp; MACHINE LEARNING ENGINEER</text>
+  <text x="72" y="258" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">RAG · Computer Vision · Voice AI · Generative Models · MLOps</text>
+
+  <g transform="translate(910 112)" fill="none" stroke="url(#accent)" stroke-width="2.5" opacity=".75">
+    <path d="M0 38h50l28-38 34 78 31-52h76"/>
+    <circle cx="0" cy="38" r="5" fill="#2dd4bf"/>
+    <circle cx="78" cy="0" r="5" fill="#2dd4bf"/>
+    <circle cx="112" cy="78" r="5" fill="#0ea5e9"/>
+    <circle cx="219" cy="26" r="5" fill="#0ea5e9"/>
+  </g>
+</svg>
