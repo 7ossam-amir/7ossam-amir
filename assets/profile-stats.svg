@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="180" viewBox="0 0 1000 180" role="img" aria-labelledby="title desc">
+  <title id="title">Hossam Amir's GitHub profile snapshot</title>
+  <desc id="desc">Seventeen public repositories, 102 contributions in the last year, and six featured projects as of August 2026.</desc>
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#102a33"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#0ea5e9"/>
+    </linearGradient>
+  </defs>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <g transform="translate(0 10)">
+      <rect width="320" height="160" rx="18" fill="url(#card)" stroke="#1e3a46"/>
+      <rect width="320" height="5" rx="2.5" fill="url(#accent)"/>
+      <text x="160" y="78" fill="#f8fafc" font-size="42" font-weight="750" text-anchor="middle">17</text>
+      <text x="160" y="113" fill="#5eead4" font-size="15" font-weight="650" letter-spacing="1.4" text-anchor="middle">PUBLIC REPOSITORIES</text>
+      <text x="160" y="139" fill="#94a3b8" font-size="13" text-anchor="middle">Projects open for exploration</text>
+    </g>
+
+    <g transform="translate(340 10)">
+      <rect width="320" height="160" rx="18" fill="url(#card)" stroke="#1e3a46"/>
+      <rect width="320" height="5" rx="2.5" fill="url(#accent)"/>
+      <text x="160" y="78" fill="#f8fafc" font-size="42" font-weight="750" text-anchor="middle">102</text>
+      <text x="160" y="113" fill="#5eead4" font-size="15" font-weight="650" letter-spacing="1.4" text-anchor="middle">CONTRIBUTIONS</text>
+      <text x="160" y="139" fill="#94a3b8" font-size="13" text-anchor="middle">Across the last year</text>
+    </g>
+
+    <g transform="translate(680 10)">
+      <rect width="320" height="160" rx="18" fill="url(#card)" stroke="#1e3a46"/>
+      <rect width="320" height="5" rx="2.5" fill="url(#accent)"/>
+      <text x="160" y="78" fill="#f8fafc" font-size="42" font-weight="750" text-anchor="middle">6</text>
+      <text x="160" y="113" fill="#5eead4" font-size="15" font-weight="650" letter-spacing="1.4" text-anchor="middle">FEATURED PROJECTS</text>
+      <text x="160" y="139" fill="#94a3b8" font-size="13" text-anchor="middle">Selected for technical depth</text>
+    </g>
+  </g>
+</svg>
